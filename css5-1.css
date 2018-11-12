@@ -1,148 +1,151 @@
 html{
-font-size:62.5%;
+    font-size: 62.5%;
 }
 body{
-margin:0px;
-overflow:scroll;
-overflow-x:hidden;
-min-height:600px;
+    margin: 0px;
+    overflow: scroll;
+    overflow-x: hidden;
+    min-height: 600px;
 }
 .zhuye{
-background-color:5fc0cd;
-color:white;
-text-align:center;
-height:3.5rem;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    height: 3.5rem;
+    background-color: 5fc0cd;
+    color: white;
+    z-index: 10;
 }
 .re{
-position:absolute;
-top:0.8rem;
-left:1rem;
-height:20px;
-width:12px;
+    position: absolute;
+    top: 0.8rem;
+    left: 1rem;
+    height: 20px;
+    width: 12px;
 }
 .zhu{
-position:relative;
-top:0.5rem;
-font-size:2rem;
+    position: relative;
+    top: 0.5rem;
+    font-size: 2rem;
 }
 .image{
-width:100%;
-height:200px;
-background:url(background.png)no-repeat;
-background-size:cover;
+    width: 100%;
+    height: 200px;
+    background: url(background.png)no-repeat;
+    background-size: cover;
 }
 .image1{
-position:relative;
-left:20px;
-top:35px;
+    position: relative;
+    left: 20px;
+    top: 68px;
 }
 .name{
-position:relative;
-left:40px;
-bottom:25px;
-font-size:1.7rem;
-color:white;
+    position: relative;
+    left: 40px;
+    bottom: -13px;
+    font-size: 1.7rem;
+    color: white;
 }
 .Shape{
-position:relative;
-right:72px;
-top:10px;
+    position: relative;
+    right: 72px;
+    top: 45px;
 }
 .address{
-position:relative;
-right:72px;
-color:white;
-top:7px;
+    position: relative;
+    right: 72px;
+    top: 40px;
+    color: white;
 }
 .profession{
-height:45px;
-border-bottom:1px solid gray;
-padding-left:20px;
+    height: 45px;
+    border-bottom: 1px solid gray;
+    padding-left: 20px;
 }
 .skill{
-height:20px;
-border:0px;
-position:relative;
-top:13px;
-border-left:2px solid gray;
-font-size:1.4rem;
+    position: relative;
+    top: 13px;
+    font-size: 1.4rem;
+    height: 20px;
+    border: 0px;
+    border-left: 2px solid gray;
 }
 .star{
-height:45px;
-width:96%;
-margin-left:2%;
-border-bottom:1px solid gray;
+    height: 45px;
+    width: 96%;
+    margin-left: 2%;
+    border-bottom: 1px solid gray;
 }
 .star1{
-position:relative;
-top:13px;
-left:18px;
+    position: relative;
+    top: 13px;
+    left: 18px;
 }
 .live{
-font-size:1.5rem;
-position:relative;
-top:10px;
-left:18px;
+    font-size: 1.5rem;
+    position: relative;
+    top: 10px;
+    left: 18px;
 }
 .star2{
-position:relative;
-top:12.5px;
-left:30px;
+    position: relative;
+    top: 12.5px;
+    left: 30px;
 }
 .nofood{
-font-size:1.5rem;
-position:relative;
-top:11px;
-left:30px;
+    font-size: 1.5rem;
+    position: relative;
+    top: 11px;
+    left: 30px;
 }
 .Introduction{
-width:96%;
-margin-left:2%;
-border-bottom:1px solid gray;
-font-size:1.4rem;
-display:flex;
-align-items:center;
-min-height:50px;
+    display: flex;
+    align-items: center;	
+    margin-left: 2%;
+    width: 96%;
+    border-bottom: 1px solid gray;
+    font-size: 1.4rem;
+    min-height: 50px;
 }
 .Introduction1{
-padding-left:21px;
-padding-right:10px;
-border-right:2px solid gray;
+    padding-left: 21px;
+    padding-right: 10px;
+    border-right: 2px solid gray;
 }
 .Introduction2{
-width:calc(96% - 90px);
-border:0px;
-padding-left:13px;
+    width: calc(96% - 90px);
+    border: 0px;
+    padding-left: 13px;
 }
 .red
 {
-color:red;
+    color: red;
 }
 footer{
-position:fixed;
-bottom:0;
-background-color:white;
-height:50px;
-width:100%;
-display:flex;
-justify-content:space-around;
-align-items:center;
+    display: flex;	
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
 }
 .massage{
-width:40%;
-height:45px;
-border:2px solid #5fc0cd;
-background-color:white;
-border-radius:5px;
-color:#5fc0cd;
-margin-left:3%;
+    width: 40%;
+    height: 45px;
+    border: 2px solid #5fc0cd;
+    border-radius: 5px;
+    background-color: white;
+    color: #5fc0cd;
+    margin-left: 3%;
 }
 .phone{
-width:40%;
-height:45px;
-border:2px solid #5fc0cd;
-background-color:#5fc0cd;
-color:white;
-margin-right:3%;
-border-radius:5px;
+    width: 40%;
+    height: 45px;
+    border: 2px solid #5fc0cd;
+    background-color: #5fc0cd;
+    color: white;
+    margin-right: 3%;
+    border-radius: 5px;
 }
