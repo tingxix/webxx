@@ -1,0 +1,118 @@
+<html>
+<head>
+<title>目录</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+<link rel="stylesheet"  href="css5-2.css" type="text/css">
+</head>
+<body>
+<div class="top">
+
+<button class="find1">找雇主</button>
+<button class="find2">找护工</button>
+<img src="Shape1.png" class="weizhi">
+</div>
+<div class="xuanxiang">
+<div class="qingkuang">
+<span>所在地</span>
+<img src="Shape2.png" class="sanjiao1">
+</div>
+<div class="qingkuang">
+<span>食宿</span>
+<img src="Shape2.png" class="sanjiao2">
+</div>
+<div class="qingkuang2">
+<span>病人情况</span>
+<img src="Shape2.png" class="sanjiao3">
+</div>
+</div>
+<div class="neirong">
+<div class="xiangqing1">
+<div class="riqi">
+<img src="calendar2.png" class="rili">
+<span>&nbsp&nbsp服务时间</span>
+</div>
+<div class="time">
+<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2017-7-5至2017-8-5</span>
+</div>
+<div class="address">
+<img src="Shape4.png" class="rili">
+<span>&nbsp&nbsp北京.通州.果园</span>
+</div>
+</div>
+<div class="jiage">
+<span class="jiage1">25元/小时</span>
+<img src="Shape3.png" class="jiantou">
+</div>
+</div>
+<div class="neirong">
+<div class="xiangqing1">
+<div class="riqi">
+<img src="calendar2.png" class="rili">
+<span>&nbsp&nbsp服务时间</span>
+</div>
+<div class="time">
+<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2017-7-5至2017-8-5</span>
+</div>
+<div class="address">
+<img src="Shape4.png" class="rili">
+<span>&nbsp&nbsp北京.通州.果园</span>
+</div>
+</div>
+<div class="jiage">
+<span class="jiage2">25元/小时</span>
+<img src="Shape3.png" class="jiantou2">
+</div>
+</div>
+<div class="neirong">
+<div class="xiangqing1">
+<div class="riqi">
+<img src="calendar2.png" class="rili">
+<span>&nbsp&nbsp服务时间</span>
+</div>
+<div class="time">
+<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2017-7-5至2017-8-5</span>
+</div>
+<div class="address">
+<img src="Shape4.png" class="rili">
+<span>&nbsp&nbsp北京.通州.果园</span>
+</div>
+</div>
+<div class="jiage">
+<span class="jiage3">25元/小时</span>
+<img src="Shape3.png" class="jiantou3">
+</div>
+</div>
+<div class="neirong">
+<div class="xiangqing1">
+<div class="riqi">
+<img src="calendar2.png" class="rili">
+<span>&nbsp&nbsp服务时间</span>
+</div>
+<div class="time">
+<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp2017-7-5至2017-8-5</span>
+</div>
+<div class="address">
+<img src="Shape4.png" class="rili">
+<span>&nbsp&nbsp北京.通州.果园</span>
+</div>
+</div>
+<div class="jiage">
+<span class="jiage4">25元/小时</span>
+<img src="Shape3.png" class="jiantou4">
+</div>
+</div>
+<footer>
+<div class="home">
+<img src="home.png" class="homeimg">
+<span>&nbsp首页</span>
+</div>
+<div class="add">
+<img src="tabbar1.jpg" class="add1">
+</div>
+<div class="mine">
+<img src="mine.png" class="mine1">
+<span>&nbsp我的</span>
+</div>
+</footer>
+</body>
+</html>
